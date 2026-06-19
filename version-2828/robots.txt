@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Static movie site generated from uploaded materials
